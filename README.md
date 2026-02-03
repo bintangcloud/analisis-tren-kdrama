@@ -1,6 +1,6 @@
 # 🎬 Analisis Tren Pasar & Popularitas Drama Korea
 
-> **Status:** *Phase 1 - Problem Statement & Data Collection* 🚧
+> **Status:** *Mini Task 1 - Problem Statement & Data Collection* 🚧
 
 Proyek ini bertujuan untuk menganalisis tren pasar dan faktor popularitas di sektor **Media & Hiburan**, khususnya Drama Korea.
 
